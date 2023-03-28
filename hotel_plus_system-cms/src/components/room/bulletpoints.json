@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_room_bulletpoints",
+  "info": {
+    "displayName": "bulletpoints"
+  },
+  "options": {},
+  "attributes": {
+    "feature": {
+      "type": "string"
+    }
+  }
+}

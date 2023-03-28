@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_room_reservations",
+  "info": {
+    "displayName": "reservations"
+  },
+  "options": {},
+  "attributes": {
+    "mail": {
+      "type": "email"
+    },
+    "name": {
+      "type": "string"
+    },
+    "start_date": {
+      "type": "date",
+      "required": true
+    },
+    "end_date": {
+      "type": "date",
+      "required": true
+    }
+  }
+}
